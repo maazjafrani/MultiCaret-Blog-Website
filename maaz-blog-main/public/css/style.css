@@ -1,0 +1,14 @@
+ul li .active a {
+    background: #0c5460;
+    color: #00acee;
+}
+
+.tm-header {
+    background-color: lightslategrey !important;
+}
+
+.register-btn {
+    background-color: lightslategrey;
+    border: 2px solid red;
+    color: black;
+}

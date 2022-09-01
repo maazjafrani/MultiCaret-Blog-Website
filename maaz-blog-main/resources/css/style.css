@@ -1,0 +1,14 @@
+ul li .active a {
+    background: #0c5460;
+    color: #00acee;
+}
+
+.register-btn {
+    background-color: red;
+    border: 1px solid red;
+    color: black;
+}
+
+h2 {
+    color: red;
+}
